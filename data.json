@@ -1,0 +1,12 @@
+{
+  "earthCreature": {
+    "name": "Earth Creature",
+    "buildCooldownSeconds": 2,
+    "attackCooldownSeconds": 0.5,
+    "hp": 100,
+    "range": 256,
+    "dmg": 50,
+    "critChance": 0,
+    "lifesteal": 0
+  }
+}
