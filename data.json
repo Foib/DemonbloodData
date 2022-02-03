@@ -1,7 +1,7 @@
 {
   "earthCreature": {
     "name": "Earth Creature",
-    "buildCooldownSeconds": 2,
+    "buildCooldownSeconds": 8,
     "attackCooldownSeconds": 1,
     "hp": 50,
     "range": 256,
