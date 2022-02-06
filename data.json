@@ -9,6 +9,16 @@
     "critChance": 0,
     "lifesteal": 0
   },
+  "fireCreature": {
+    "name": "Fire Creature",
+    "buildCooldownSeconds": 8,
+    "attackCooldownSeconds": 2,
+    "hp": 50,
+    "range": 160,
+    "dmg": 60,
+    "critChance": 0,
+    "lifesteal": 0
+  },
   "stoneGolem": {
     "name": "Stone Golem",
     "buildCooldownSeconds": 10,
@@ -18,5 +28,5 @@
     "dmg": 34,
     "critChance": 0,
     "lifesteal": 0
-  },
+  }
 }
