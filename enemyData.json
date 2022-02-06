@@ -1,5 +1,7 @@
 [
-  "name": "enemy0",
-  "hp": 10,
-  "spd": 1
-  ]
+  {
+    "name": "enemy0",
+    "hp": 10,
+    "spd": 1
+  }
+]
