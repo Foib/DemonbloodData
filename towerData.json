@@ -22,7 +22,7 @@
   "stoneGolem": {
     "name": "Stone Golem",
     "buildCooldownSeconds": 10,
-    "attackCooldownSeconds": 2,
+    "attackCooldownSeconds": 0.05,
     "hp": 80,
     "range": 256,
     "dmg": 34,
